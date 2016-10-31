@@ -1,0 +1,2 @@
+A form for sending emails - frameworked for API integration with SendGrid and/or MailChimp campaign services. 
+** At some point would be notice to integrate this with a proper account roles services and newsletter sign-up/post-out scheduler. 
